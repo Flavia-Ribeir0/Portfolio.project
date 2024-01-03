@@ -14,4 +14,4 @@ Projeto construido do evento Next Level Week da Rocketseat.
 
 ## Contato
 
-flaviaalexsa12@gmail.com
+flaviaarbarros12@gmail.com
